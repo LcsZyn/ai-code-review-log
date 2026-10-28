@@ -1,2 +1,2 @@
 # ai-code-review-log
-AI代码自动评审
+AI代码自动评审日志
